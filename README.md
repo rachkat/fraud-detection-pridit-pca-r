@@ -23,15 +23,6 @@ Taken together, these projects illustrate the complete analytics pipeline:
 This progression highlights both **technical fluency in R programming** and the ability to **translate analytics into actionable business insights** aligned with Basel II frameworks. For recruiters, this work demonstrates strengths in **data cleaning, unsupervised modeling, and risk analytics**, while emphasizing my capacity to deliver insights that matter for decision-making in fraud detection and operational risk management.  
 ---
 
-## 📂 Repository Contents  
-- 📄 `Evaluation-of-Undercover-Losses-from-Company-XYZ’s-Legacy-Fraud-Identification-Process.pdf`  
-- 📄 `Proactive-Identification-Of-Loss-For-Company-XYZ.pdf`  
-- 📝 `README.md` (this file)  
-
-Each PDF contains the original written analysis with embedded screenshots of RStudio code execution and outputs. The README provides a recruiter-friendly overview with detailed highlights.
-
----
-
 ## Project 1: Evaluation of Undercover Losses from Company XYZ’s Legacy Fraud Identification Process  
 
 ### Objective  
