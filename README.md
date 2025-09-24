@@ -1,8 +1,8 @@
 # Fraud Detection with PRIDIT & PCA in R
 
-![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green)  
-![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)  
+![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r) 
+![License: MIT](https://img.shields.io/badge/License-MIT-green) 
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ---
 
@@ -32,9 +32,9 @@ This progression highlights both **technical fluency in R programming** and the 
 ## Presentation Materials  
 
 To complement the written papers, I also prepared a presentation summarizing key findings:  
-
--  [Slides (PPTX, visuals only)](./ERM-XYZ.pptx)  
--  [Slides with Speaker Notes (PDF)](./risk-management.pdf)  
+- [Slides (PPTX, visuals only)](./ERM-XYZ.pptx) — designed for presentations.  
+- [Slides with Speaker Notes (PDF)](./risk-management.pdf) — detailed explanations for self-study.  
+ 
 
 ---
 
