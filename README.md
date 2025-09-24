@@ -29,6 +29,14 @@ Taken together, these projects illustrate the complete analytics pipeline:
 This progression highlights both **technical fluency in R programming** and the ability to **translate analytics into actionable business insights** aligned with Basel II frameworks. For recruiters, this work demonstrates strengths in **data cleaning, unsupervised modeling, and risk analytics**, while emphasizing my capacity to deliver insights that matter for decision-making in fraud detection and operational risk management.  
 
 ---
+## Presentation Materials  
+
+To complement the written papers, I also prepared a presentation summarizing key findings:  
+
+-  [Slides (PPTX, visuals only)](./ERM-XYZ.pptx)  
+-  [Slides with Speaker Notes (PDF)](./risk-management.pdf)  
+
+---
 
 ## Table of Contents  
 
