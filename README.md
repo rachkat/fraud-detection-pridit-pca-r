@@ -1,5 +1,11 @@
 # Fraud Detection with PRIDIT & PCA in R
 
+![Made with R](https://img.shields.io/badge/Made%20with-R-blue?logo=r)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green)  
+![Status: Complete](https://img.shields.io/badge/Status-Complete-brightgreen)  
+
+---
+
 ## Executive Summary  
 
 This repository showcases two connected projects on **fraud detection and risk analysis in auto insurance claims**, developed during my Master’s program in Data Analytics (SNHU, DAT 610: Optimization and Risk Assessment). Together, these papers demonstrate a progression from foundational data cleaning and Basel II risk alignment to advanced unsupervised fraud detection methods using **PRIDIT scoring** and **Principal Component Analysis (PCA)** in R.  
@@ -21,6 +27,20 @@ Taken together, these projects illustrate the complete analytics pipeline:
 - **To unsupervised fraud detection and dimensionality reduction** (Paper 2).  
 
 This progression highlights both **technical fluency in R programming** and the ability to **translate analytics into actionable business insights** aligned with Basel II frameworks. For recruiters, this work demonstrates strengths in **data cleaning, unsupervised modeling, and risk analytics**, while emphasizing my capacity to deliver insights that matter for decision-making in fraud detection and operational risk management.  
+
+---
+
+## Table of Contents  
+
+1. [Project 1: Evaluation of Undercover Losses](#project-1-evaluation-of-undercover-losses-from-company-xyzs-legacy-fraud-identification-process)  
+2. [Project 2: Proactive Identification of Loss](#project-2-proactive-identification-of-loss-for-company-xyz)  
+3. [Technologies & Tools](#technologies--tools)  
+4. [Key Skills Demonstrated](#key-skills-demonstrated)  
+5. [Results Highlights](#results-highlights)  
+6. [Reproducibility](#reproducibility)  
+7. [License](#license)  
+8. [Tags](#tags)  
+
 ---
 
 ## Project 1: Evaluation of Undercover Losses from Company XYZ’s Legacy Fraud Identification Process  
@@ -104,6 +124,34 @@ To validate and apply the **PRIDIT scoring methodology** and **Principal Compone
 
 ### Key Insight  
 PRIDIT + PCA provide **robust, unsupervised fraud detection**, outperforming traditional supervised methods where labeled data is unavailable. By incorporating PCA-driven components into claims analysis, Company XYZ improves accuracy in identifying fraudulent behavior while aligning with Basel II risk frameworks.  
+
+---
+
+## Technologies & Tools  
+
+- **RStudio / R 4.2.1**  
+- **R Packages**: `scatterplot3d`, `car`, `stats`  
+- **Statistical Methods**: PRIDIT scoring, PCA, regression modeling  
+- **Frameworks Referenced**: Basel II operational risk  
+
+---
+
+## Key Skills Demonstrated  
+
+- **Data Cleaning & Preparation**: Converting raw factors to numeric, managing structured claim datasets.  
+- **Unsupervised Learning**: Applied PRIDIT and PCA to high-dimensional data.  
+- **Risk Alignment**: Mapping claims to Basel II categories (operational, credit, reputational).  
+- **Analytical Thinking**: Evaluating methods (PRIDIT vs logistic regression vs Wilcoxon) for fraud detection.  
+- **Business Translation**: Turning technical results into actionable fraud detection strategies.  
+
+---
+
+## Results Highlights  
+
+- Converted and standardized claims data to enable accurate analysis.  
+- Identified fraud indicators via suspicion scores, RIDIT-ized variables, and PCA outputs.  
+- Showed that **PRIDIT outperformed traditional supervised methods** when labeled fraud data was unavailable.  
+- Determined that **collision, bodily injury, and reputational risks** are key categories for monitoring under Basel II frameworks.  
 
 ---
 
