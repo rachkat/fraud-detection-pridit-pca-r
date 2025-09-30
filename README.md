@@ -33,6 +33,7 @@ This progression highlights both **technical fluency in R programming** and the 
 
 To complement the written papers, I also prepared a presentation summarizing key findings:  
 - [Slides (PPTX, visuals only)](./ERM-XYZ.pptx) — designed for presentations.
+- [Slides (PPTX, visuals only)](https://github.com/rachkat/fraud-detection-pridit-pca-r/raw/main/ERM-XYZ.pptx)
 - [Slides with Speaker Notes (PDF)](./risk-management.pdf) — detailed explanations for self-study.  
  
 
